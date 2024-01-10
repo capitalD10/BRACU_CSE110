@@ -1,0 +1,5 @@
+x = input("First number: ")
+print(x)
+
+y = input("Second number: ")
+print(y)
